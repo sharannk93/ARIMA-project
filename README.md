@@ -1,4 +1,5 @@
-# ARIMA-project
+# Forcasting future sales of champagne using ARIMA model
+
 ## ARIMA and Seasonal ARIMA Autoregressive Integrated Moving Averages
  The general process for ARIMA models is the following:  
  
